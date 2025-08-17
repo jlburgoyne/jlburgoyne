@@ -28,6 +28,8 @@ she/her
 https://www.linkedin.com/in/jessicaburgoyne-research/
 ### Fun Fact
 Like most Gen-Xers, I speak fluent movie quotes and tend to have one for almost any occasion ("I'm not even supposed to be here today" is a daily refrain).
+### Interested in What I Have to Say?
+Here's my blog: https://jessicaburgoyne.com/blog/
 
 
 <!--
