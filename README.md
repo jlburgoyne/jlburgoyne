@@ -16,9 +16,9 @@ I'm a **librarian** with an interest in metadata, information architecture, taxo
 - The importance of community
 - Open-mindedness
 - The Oxford comma (look, I'm allowed to be pedantic sometimes)
-### What I'm Looking For:
+### What I'm Looking For
 I learn best when I have plenty of examples to refer to, so I'm mostly looking for education and inspiration
-### Ask Me About:
+### Ask Me About
 - Information organization
 - K-12 education
 - Genealogy (because I've been a little old lady at heart for my whole life)
