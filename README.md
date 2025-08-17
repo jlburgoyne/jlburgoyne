@@ -4,11 +4,11 @@ I'm a **librarian** with an interest in metadata, information architecture, taxo
 ### What I'm Up To
 - Trying to wrap my mind around **Python**
 - Poking at **SQL** because I expect it's going to be my daily driver
-- Brushing up on my math skills (which, frankly, was not my focus during my liberal arts undergrad)
+- Brushing up on my math skills (which, frankly, were not my focus during my liberal arts undergrad)
 ### What I Know
 - Basic Python, including pandas, matplotlib, numpy, and seaborn
 - Introductory linear regression and trend analysis, correlation analysis and variable relationships, and cross-validation
-- MARC 21, Dublin Core, AACR 2, and RDA
+- MARC 21, Dublin Core, AACR2, and RDA
 - Collection development and management
 - Instructional design
 ### What I Believe In
