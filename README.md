@@ -6,18 +6,19 @@ I'm a **librarian** with an interest in metadata, information architecture, taxo
 - Poking at **SQL** because I expect it's going to be my daily driver
 - Brushing up on my math skills (which, frankly, were not my focus during my liberal arts undergrad)
 ### What I Know
-- Basic Python, including pandas, matplotlib, numpy, and seaborn
+- Basic **Python**, including **pandas**, **matplotlib**, **numpy**, and **seaborn**
 - Introductory linear regression and trend analysis, correlation analysis and variable relationships, and cross-validation
-- MARC 21, Dublin Core, AACR2, and RDA
+- **MARC 21**, **Dublin Core**, **AACR2**, and **RDA**
 - Collection development and management
 - Instructional design
 ### What I Believe In
 - Clean writing that conveys the writer's intention
 - The importance of community
 - Open-mindedness
+- Function over form (unless form is the point)
 - The Oxford comma (look, I'm allowed to be pedantic sometimes)
 ### What I'm Looking For
-I learn best when I have plenty of examples to refer to, so I'm mostly looking for education and inspiration
+I learn best when I have plenty of examples to refer to, so I'm mostly looking for education and inspiration.
 ### Ask Me About
 - Information organization
 - K-12 education
@@ -27,7 +28,7 @@ she/her
 ### Contact Info
 https://www.linkedin.com/in/jessicaburgoyne-research/
 ### Fun Fact
-Like most Gen-Xers, I speak fluent movie quotes and tend to have one for almost any occasion ("I'm not even supposed to be here today" is a daily refrain).
+Like most Gen-Xers, I speak in fluent movie quotes and tend to have one for almost any occasion ("I'm not even supposed to be here today" is a daily refrain).
 ### Interested in What I Have to Say?
 Here's my blog: https://jessicaburgoyne.com/blog/
 
