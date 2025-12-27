@@ -1,6 +1,6 @@
 ## Hi, I'm Jessica
 ### Who I Am
-I'm a **librarian** with an interest in metadata, information architecture, taxonomy, and ontology. I'm working on my Master of Data Science from the **University of Pittsburgh**. 
+I'm a **librarian** with an interest in metadata, information architecture, taxonomy, and data governance. I'm working on my Master of Data Science from the **University of Pittsburgh**. 
 ### What I'm Up To
 - Trying to wrap my mind around **Python**
 - Poking at **SQL** because I expect it's going to be my daily driver
