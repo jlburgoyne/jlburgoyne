@@ -1,49 +1,34 @@
-## Hi, I'm Jessica
-### Who I Am
-I'm a **librarian** with an interest in metadata, information architecture, taxonomy, and data governance. I'm working on my Master of Data Science from the **University of Pittsburgh**. 
-### What I'm Up To
-- Trying to wrap my mind around **Python**
-- Poking at **SQL** because I expect it's going to be my daily driver
-- Brushing up on my math skills (which, frankly, were not my focus during my liberal arts undergrad)
-### What I Know
-- Basic **Python**, including **pandas**, **matplotlib**, **numpy**, and **seaborn**
-- Introductory linear regression and trend analysis, correlation analysis and variable relationships, and cross-validation
-- **MARC 21**, **Dublin Core**, **AACR2**, and **RDA**
-- Collection development and management
-- Instructional design
-### What I Believe In
-- Clean writing that conveys the writer's intention
-- The importance of community
-- Open-mindedness
-- Function over form (unless form is the point)
-- The Oxford comma (look, I'm allowed to be pedantic sometimes)
-### What I'm Looking For
-I learn best when I have plenty of examples to refer to, so I'm mostly looking for education and inspiration.
-### Ask Me About
-- Information organization
-- K-12 education
-- Genealogy (because I've been a little old lady at heart for my whole life)
-### Pronouns
-she/her
-### Contact Info
-https://www.linkedin.com/in/jessicaburgoyne-research/
-### Fun Fact
-Like most Gen-Xers, I speak in fluent movie quotes and tend to have one for almost any occasion ("I'm not even supposed to be here today" is a daily refrain).
-### Interested in What I Have to Say?
-Here's my blog: https://jessicaburgoyne.com/blog/
+# Jessica Burgoyne
 
+Taxonomy, metadata, and knowledge organization | AI evaluation | Data governance
 
-<!--
-**jlburgoyne/jlburgoyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make information findable. I've spent nearly 20 years as a librarian building and maintaining catalogs, writing local subject access, and cleaning up vendor metadata. I also evaluate frontier AI models for leading AI labs, and I'm completing a Master of Data Science at the University of Pittsburgh (2027).
 
-Here are some ideas to get you started:
+## Focus areas
+- Taxonomy and ontology design
+- Metadata standards and controlled vocabularies
+- Data governance and data management (CDMP Associate)
+- AI evaluation and red teaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and standards
+- **Metadata:** MARC 21, RDA, AACR2, Dublin Core, Sears subject headings
+- **Data:** Python (pandas, NumPy, matplotlib, seaborn), SQL
+- **Methods:** linear regression, correlation analysis, cross-validation
+
+## Coursework (Pitt MDS)
+- Managing, Querying, and Preserving Data
+- Mathematical and Statistical Foundations for Data Science
+- Responsible Data Science
+- Applied Predictive Modeling
+- Applied Bayesian Analysis (in progress)
+
+## What I value
+- Clear writing that says what it means
+- Structure that serves the people using it
+- The Oxford comma
+
+## Find me
+- Portfolio: [jessicaburgoyne.com](https://jessicaburgoyne.com)
+- LinkedIn: [jessicaburgoyne-research](https://www.linkedin.com/in/jessicaburgoyne-research/)
+
+Pronouns: she/her
